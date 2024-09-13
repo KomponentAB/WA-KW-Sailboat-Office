@@ -1531,13 +1531,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":32,
  "tilesets":[
         {
          "columns":80,
          "firstgid":1,
-         "image":"tilesets\/Modern_Ship.png",
+         "image":"..\/tilesets\/Modern_Ship.png",
          "imageheight":2560,
          "imagewidth":2560,
          "margin":0,
@@ -4276,7 +4276,7 @@
         {
          "columns":125,
          "firstgid":6401,
-         "image":"tilesets\/God_Ray_Linear_45_Wide.png",
+         "image":"..\/tilesets\/God_Ray_Linear_45_Wide.png",
          "imageheight":2000,
          "imagewidth":4000,
          "margin":0,
@@ -4289,7 +4289,7 @@
         {
          "columns":6,
          "firstgid":14151,
-         "image":"tilesets\/WA_Special_Zones.png",
+         "image":"..\/tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
